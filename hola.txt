@@ -1,3 +1,7 @@
 este es el breve texto del archivo
+<<<<<<< HEAD
 
 chau
+=======
+modificando
+>>>>>>> 9182f7efabfe96e4855a4ed0393201889b6b86c7
